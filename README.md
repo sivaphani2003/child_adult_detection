@@ -40,7 +40,7 @@ The project is suitable for real-time video processing or analyzing pre-recorded
 1. **Clone the Repository** (or download the script directly if no repo exists):
 
     ```bash
-    git clone https://github.com/sivaphani2003/yolo-deepsort-classification.git
+    git clone https://github.com/sivaphani2003/child_adult_detection.git
     cd yolo-deepsort-classification
     ```
 
